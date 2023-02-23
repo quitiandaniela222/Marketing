@@ -1,0 +1,51 @@
+ .background {
+   color: rgb(9, 70, 70);
+   display: flex;
+   justify-content: center;
+   min-height: 600px;
+   align-items: center;
+ }
+
+ img {
+   display: block;
+   margin: auto;
+ }
+
+
+ * {
+   font-family: Georgia;
+   background-color: rgb(218, 254, 254);
+ }
+
+ .Usehashtags {
+   color: darkblue;
+ }
+
+ .Identifyyouraudience {
+   color: rgb(67, 83, 231)
+ }
+
+ [href] {
+   color: rgb(222, 14, 118);
+ }
+
+ a[href*="marketing"] {
+   height: 50px;
+ }
+
+ a:hover {
+   color: chartreuse
+ }
+
+ h2 {
+   font-size: 24px;
+   color: rgb(17, 72, 54)
+ }
+
+ h2.superimportant {
+   color: rgb(94, 206, 94);
+ }
+
+ p.warning {
+   color: red;
+ }
